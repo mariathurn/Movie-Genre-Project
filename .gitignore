@@ -1,2 +1,4 @@
 /posters
 /paper
+*.pkl
+*.csv
